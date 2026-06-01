@@ -1,0 +1,3 @@
+# TaskPilot-CLI
+# Zero external dependencies - uses only Python standard library
+# Python 3.8+ required
